@@ -32,6 +32,16 @@ Although this was a research-focused project, it demonstrates the practical appl
 
 - `MuhammadAliSyed20105497.ipynb` – Full Google Colab notebook with all steps: preprocessing, training, evaluation.
 
+## 📄 Final Research Report
+
+The report includes:
+- Problem definition and research objectives
+- Literature review on AI in dermatology
+- Dataset overview and preprocessing methods
+- Model selection, tuning, and evaluation
+- Ethical considerations and future improvements
+  
+
 ## 📌 Notes
 
 - Dataset used: ISIC 2017 Dataset]
